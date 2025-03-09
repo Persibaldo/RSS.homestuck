@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<percivalgonzalez>
+	<art1>
+		<id>1</id>
+		<troll>Terezi</troll>
+		<lastName>Pyrope</lastName>
+		<photo>https://static.wikia.nocookie.net/mspaintadventures/images/9/96/Terezi_Pyrope.png/revision/latest?cb=20121221225933</photo>
+	</art1>
+	<art2>
+		<id>2</id>
+		<troll>Karkat</troll>
+		<lastName>Vantas</lastName>
+		<photo>https://static.wikia.nocookie.net/mspaintadventures/images/1/17/Karkat_Vantas.png/revision/latest?cb=20111216151555</photo>
+	</art2>
+	<art3>
+		<id>3</id>
+		<troll>Vriska</troll>
+		<lastName>Serket</lastName>
+		<photo>https://static.wikia.nocookie.net/mspaintadventures/images/8/81/Vriska_Serket.png/revision/latest?cb=20131109202341</photo>
+	</art3>
+</percivalgonzalez>
